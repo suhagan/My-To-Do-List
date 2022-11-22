@@ -1,0 +1,20 @@
+[
+    {
+      "id": "ID: 01",
+      "name": "Item: Traffic Lights",
+      "submitted": "Status Submitted: Yes",
+      "completed": "Status Completed: Yes"
+    },
+    {
+      "id": "ID: 02",
+      "name": "Item: Responsive Resume Website",
+      "submitted": "Status Submitted: Yes",
+      "completed": "Status Completed: No"
+    },
+    {
+      "id": "ID: 03",
+      "name": "Item: Dynamic Resume Page",
+      "submitted": "Status Submitted: No",
+      "completed": "Status Completed: No"
+    }
+  ]

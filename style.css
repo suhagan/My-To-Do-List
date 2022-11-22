@@ -1,0 +1,27 @@
+body
+{
+  background-color: rgba(43, 169, 18, 0.14);
+  box-sizing: border-box;
+}
+
+h1
+{
+  font-size: 30px;
+  text-align: center;
+  padding: 15px 0px;
+}
+
+#todo  .card
+{
+  background-color: white;
+  width: 30%;
+  height: 30%;
+  margin: auto;
+  padding: 20px;
+  
+}
+
+#todo  .card ul li
+{
+  color: rgb(4, 4, 4);
+}
